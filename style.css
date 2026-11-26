@@ -3016,7 +3016,7 @@ body.modal-open {
 
     position: fixed;
 
-    right: 28px;
+    left: 28px;
 
     bottom: 28px;
 
@@ -3130,7 +3130,7 @@ body.modal-open .back-to-top {
 
     .back-to-top {
 
-        right: 16px;
+        left: 16px;
 
         bottom: 18px;
 
